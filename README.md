@@ -29,6 +29,7 @@ Fira Code is a personal, free-time project with no funding and a huge [feature r
 ### What’s in the box?
 
 Left: ligatures as rendered in Fira Code. Right: same character sequences without ligatures.
+#1
 
 <img src="./extras/ligatures.png" width="754" height="1326">
 
